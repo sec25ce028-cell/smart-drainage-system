@@ -1,0 +1,5 @@
+timestamp,water_level_cm,blockage_detected,status
+2026-10-28 10:00,5,false,Normal
+2026-10-28 10:05,12,false,Normal
+2026-10-28 10:10,25,true,Possible blockage
+2026-10-28 10:15,35,true,High water level
